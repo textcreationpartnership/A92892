@@ -1,0 +1,3139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heraldry epitomized containing a short and easie way to attain that art, explained in divers examples : illustrated with variety of coats of arms, not only of the families of the nobility and gentry, but also of countreys, cities, corporations and fraternities / collected by John Seller.</title>
+            <author>Seller, John, fl. 1658-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92892</idno>
+            <idno type="STC">Wing S2473A</idno>
+            <idno type="STC">ESTC R43922</idno>
+            <idno type="EEBO-CITATION">42476336</idno>
+            <idno type="OCLC">ocm 42476336</idno>
+            <idno type="VID">151325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2255:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heraldry epitomized containing a short and easie way to attain that art, explained in divers examples : illustrated with variety of coats of arms, not only of the families of the nobility and gentry, but also of countreys, cities, corporations and fraternities / collected by John Seller.</title>
+                  <author>Seller, John, fl. 1658-1698.</author>
+               </titleStmt>
+               <extent>[4], 6 p., 50 plates (part double) : coats of arms.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Added t.p. engraved.</note>
+                  <note>Frontispiece: royal arms.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heraldry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:151325:1"/>
+            <p>
+               <figure>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEU ET MON DROIT</q>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>blazon or coat of arms of the City of London</figDesc>
+                  <q>DOMINE DIRIGE NOS</q>
+               </figure>
+            </p>
+            <pb facs="tcp:151325:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>Heraldry Epitomized. Containing a Short &amp; Eaſy way to Atain that Art. Collected By John Seller</head>
+                  <p>or</p>
+                  <p>argent</p>
+                  <p>purpure</p>
+                  <p>vert</p>
+                  <p>ſable</p>
+                  <p>gules</p>
+                  <p>azure</p>
+                  <p>Antient</p>
+                  <p>Antient</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:151325:2" rendition="simple:additions"/>
+            <pb facs="tcp:151325:2" rendition="simple:additions"/>
+            <p>HERALDRY EPITOMIZED: CONTAINING A Short and Eaſie Way to Attain that ART, Explained in divers EXAMPLES: Illuſtrated with Variety of COATS of ARMS, Not only of the Families of the NOBILITY and GENTRY, But alſo of COUNTREYS, CITIES, Corporations and Fraternities.</p>
+            <p>Collected by <hi>JOHN SELLER.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed, 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151325:3"/>
+            <pb n="1" facs="tcp:151325:3"/>
+            <head>HERALDRY.</head>
+            <p>
+               <hi>HEraldry</hi> is an Art rightly preſcribing the true know<g ref="char:EOLhyphen"/>ledge and uſe of Arms, and conſiſts in <hi>Blazoning</hi> and <hi>Marſhalling.</hi>
+            </p>
+            <p>
+               <hi>Blazon</hi> is taken either for an Explication of Arms in apt and ſignificant terms; or elſe for a diſplay of the Virtues of the Bearers of Arms.</p>
+            <p>
+               <hi>Marſhalling</hi> is the conjoyning of divers Arms into one Shield or Eſcutcheon, <hi>&amp;c.</hi> And Arms (ſaith <hi>Cambden</hi>) are <hi>Enſigns of Honour Born in Banners, Shields and Coats,</hi> for no<g ref="char:EOLhyphen"/>tice and diſtinctions of Families one from another, and are deſcendable as hereditable to Poſterity.</p>
+            <p>
+               <hi>Arms</hi> in this ſence have been of great Antiquity in the world, as appears from Sacred Writ: Particularly from <hi>Numb.</hi> 2<hi rend="sup">d</hi>: wherein every Tribe of <hi>Iſrael</hi> was commanded to pitch his Tent under the Standard of his Fathers Houſe.</p>
+            <p>
+               <hi>Enſigns of Honour</hi> among Military men, have been anci<g ref="char:EOLhyphen"/>ently uſed in this <hi>Kingdom;</hi> and the Coats that are now born by the <hi>Nobility</hi> and <hi>Gentry,</hi> are viſible ſigns of their <hi>Nobility,</hi> and ſhortned Symbols of the <hi>Heroical</hi> actions of their <hi>Predeceſſors:</hi> And the ſeveral Diviſions of their Shields, ought to ſhew the Wounds and Cuts received in many various Acts and Heroical Atchievements of their <hi>Progenitors,</hi> which from them hath been deſcended down to their Poſterity; which principally took its Riſe from their Services in the Warres in the <hi>Holy Land,</hi> wherein ſeveral Chriſtian Nations were engaged; every one under their ſeveral Banners: As,</p>
+            <p>The <hi>Engliſh</hi> diſplayed a Red Croſs on a white Field:</p>
+            <p>The <hi>French</hi> and <hi>Portugals</hi> under a white Croſs in a Blew Field:</p>
+            <pb n="2" facs="tcp:151325:4"/>
+            <p>The <hi>Iriſh,</hi> a Red Croſs in a yellow Field.</p>
+            <p>The <hi>Spaniards,</hi> with a <hi>Salter Croſſe</hi> trunked in a white Field:</p>
+            <p>The <hi>Scots</hi> with St. <hi>Andrews</hi> Croſſe, white in a Blew Field.</p>
+            <p>And the more particular bearings in the <hi>Holy Land,</hi> was the Croſſe Crouched and Croſſed, of infinite Varieties, as may be ſeen in all Military Orders of Chivalry and Knight<g ref="char:EOLhyphen"/>hood: So that all thoſe particular Families, that did ſignal Service there, have their Shields adorned therewith: As Eſcalop Shells, Pilgrims Scrips or Staves, Saracens heads, <hi>&amp;c.</hi>
+            </p>
+            <p>Every Coat of Arms ought to conſiſt of both Mettal and Colour, having ſome Analogy of the Body and Spirit of the Bearers, repreſented by the Field and Charge; Rendred in the proper Language of Heraldry, which is called <hi>Blazon.</hi>
+            </p>
+            <p>The <hi>Mettals, Colours</hi> and <hi>Furres</hi> are repreſented in the firſt Plate of this book, each of them expreſt by ſeveral Hatch<g ref="char:EOLhyphen"/>ings of Lines: As, <hi>Or,</hi> is expreſt by Pricks and Points; <hi>Ar<g ref="char:EOLhyphen"/>gent,</hi> plain, <hi>&amp;c.</hi> As may be ſeen under their reſpective titles: All which are Common Fields in <hi>Heraldry,</hi> and are ſubject to Diviſion and Charge: Only obſerve the <hi>Vary,</hi> is <hi>Armour</hi> of it ſelf, being always <hi>Argent</hi> and <hi>Azure.</hi>
+            </p>
+            <div n="divisions of shields" type="description">
+               <head>An Explication of the Diviſions of ſeveral Shields with their Significations.</head>
+               <p>FIrſt, of the <hi>Croſſe,</hi> being the moſt worthy of all Bearings, noting all Divine and Moral Virtues.</p>
+               <p>The Second, is a <hi>Chief,</hi> which though it conſiſts but of one Line, yet is the Embleme of Fame, who bears her Head in the Clouds, Repreſenting a Head, a <hi>Chief,</hi> a <hi>Commander.</hi>
+               </p>
+               <p>The Third is a <hi>Feſſe,</hi> ſignifying <hi>Reſolution</hi> to action, and is a <hi>Military Girole,</hi> going out to Conquer.</p>
+               <p>The <hi>Fourth,</hi> is called a <hi>Bend,</hi> ſignifying an old Souldier, and repreſents the <hi>Baltheum Triumphalis,</hi> worn by thoſe that have Conquered.</p>
+               <p>The Fifth is a <hi>Pale,</hi> Repreſenting a <hi>Military</hi> man in a ſtanding poſture, denoting <hi>Vigilancy</hi> and <hi>Diligence,</hi> and is as a Colomn or Pillar erected to the Memory of deſerving Men.</p>
+               <pb n="3" facs="tcp:151325:4"/>
+               <p>The Sixth, is a <hi>Cheveron,</hi> and denoteth an Eſtabliſh'd Houſe, one that doth enjoy the Spoyls of Arms gain'd in Warres.</p>
+               <p>The Seventh, is the <hi>Saltier,</hi> which is an Engine of Man<g ref="char:EOLhyphen"/>hood to aſſault or gain, <hi>per Saltum,</hi> and denoteth a <hi>Po<g ref="char:EOLhyphen"/>litick Souldier.</hi>
+               </p>
+               <p>The Eighth is an <hi>Eſcutcheon,</hi> repreſenting the property of a good man, who labours to keep a quiet Conſcience in his Breaſt.</p>
+               <p>The Ninth <hi>Ordinary,</hi> is the <hi>Barr,</hi> which is never ſingle, and are of the nature of the <hi>Scarf</hi> worn about the Neck, Arm or Middle: Denoting ſuch as either with Arms or Councel defend their <hi>Nation: Two Barrs</hi> repreſenting <hi>Love</hi> and <hi>Honour.</hi>
+               </p>
+               <p>When a <hi>Field</hi> is Charged by theſe Lines drawn ſtraight or thwart, do conſtitute certain honourable <hi>Ordinaries,</hi> as being Ordinarily uſed, and are called <hi>Ordinarij.</hi>
+               </p>
+               <p>The <hi>Differences</hi> of the ſeveral Brothers are to be placed on the ſeveral <hi>Eſcutcheons,</hi> with their ſignifications.</p>
+               <p>The <hi>Shield</hi> being charged with Living Creatures, and principally with the <hi>Lyon</hi> the King of Beaſts, in their ſeve<g ref="char:EOLhyphen"/>ral Poſtures, are preſented as followeth:</p>
+               <p>Firſt, The <hi>Lyon Couchant,</hi> ſignifies Vigilancy, and an Illuſtrious <hi>Hero.</hi>
+               </p>
+               <list>
+                  <item>Secondly, <hi>Rampant,</hi> Magnanimous, Noble.</item>
+                  <item>Thirdly, <hi>Paſſant,</hi> Reſolute.</item>
+                  <item>Fourthly, <hi>Paſſant, Guardant,</hi> Prudent.</item>
+                  <item>Fifthly, <hi>Saliant,</hi> Valiant.</item>
+                  <item>Sixthly, <hi>Sejant,</hi> Adviſed.</item>
+                  <item>Seventhly, <hi>Regardant,</hi> Circumſpect.</item>
+                  <item>Eighthly, <hi>Double-headed,</hi> Politique.</item>
+                  <item>Ninthly, <hi>Double-Queiv'd,</hi> Strenuous.</item>
+               </list>
+               <p>And which you may ſee anſwered to the ſeveral Figures in the Plate, where the <hi>Helmets</hi> are expreſſed.</p>
+               <p>And, becauſe Man as he is the head of the whole Creation, ſo to bear the Head of any thing is accounted the moſt Ho<g ref="char:EOLhyphen"/>nourable: And what is gained by Labour and Pains is to be preferred: As the Eraſed Head is more of <hi>Military</hi> power than the <hi>Couped;</hi> the one being torn off, and the other cut off.</p>
+               <pb n="4" facs="tcp:151325:5"/>
+               <p>
+                  <hi>Cantons</hi> have place among Augmentations: As in the In<g ref="char:EOLhyphen"/>ſtitution of <hi>Barons,</hi> each wearing an Eſcutcheon, or a <hi>Can<g ref="char:EOLhyphen"/>ton</hi> charged with a ſiniſter hand <hi>Gules:</hi> And when one <hi>Eſcutcheon</hi> is born on another, it ſignifies that the Husband hath Marryed an Heireſs General, and having Iſſue by her, it is Quartered by the Son, to ſhew that the Right of her Inheritance is tranſmitted from her to him: But if ſhe be not an Heireſs, he may but impale the Coat on the ſiniſter ſide, which is called <hi>Baron</hi> and <hi>Feme:</hi> As for the outward Ornaments of <hi>Mantles, Helmets</hi> and <hi>Creſts,</hi> with which the Coats were called altogether <hi>Atchiavements.</hi>
+               </p>
+            </div>
+            <div n="helmets" type="description">
+               <head>Of the diverſity of Helmets.</head>
+               <p>THe <hi>Helmet</hi> is for the defenſive part of the Head, re<g ref="char:EOLhyphen"/>preſenting Council; and are thus diſtinguiſhed, as may appear in the 2<hi rend="sup">d</hi> Plate in the Book.</p>
+               <list>
+                  <item>The Firſt is that of an <hi>Eſquire</hi> or <hi>Gentleman.</hi>
+                  </item>
+                  <item>The Second is that of a <hi>Knight.</hi>
+                  </item>
+                  <item>The Third, is that of a <hi>Baron Garde Viſure,</hi> placed in that <hi>Ciroulus Aureus,</hi> which the King hath conferred on <hi>Barons</hi> of the <hi>Realm</hi> with ſix Pearls only.</item>
+                  <item>The <hi>Fourth,</hi> is that of a <hi>Viſcount,</hi> conſiſting of the whole Circle of Pearls.</item>
+                  <item>The Fifth, is that of an <hi>Earl.</hi>
+                  </item>
+                  <item>The Sixth, that of a <hi>Marqueſs.</hi>
+                  </item>
+                  <item>The Seventh is that of a <hi>Duke.</hi>
+                  </item>
+                  <item>The Eighth is that of a <hi>Prince.</hi>
+                  </item>
+               </list>
+               <p>And the Ninth is that of a Soveraign, which is the Higheſt.</p>
+               <p>And for the Manner of <hi>Blazoning</hi> Coats of Arms, you ſhall find herein ſeveral Examples: As in the Se<g ref="char:EOLhyphen"/>cond Plate anſwering to the ſeveral Figures; and the Eſcutcheon N<hi rend="sup">o</hi> 1. Is thus Blazoned: He beareth <hi>Sable,</hi> a <hi>Feſſe Dancette Sable,</hi> by the Name of <hi>Vavaſour.</hi>
+               </p>
+               <pb n="5" facs="tcp:151325:5"/>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 2. is thus Blazoned: He beareth <hi>Argent</hi> on a <hi>Canton Sable,</hi> a <hi>Lions paw</hi> eraſed in <hi>Bend, Or,</hi> by the name of <hi>Bowthby.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 3. is thus <hi>Blazoned:</hi> He beareth <hi>Ar<g ref="char:EOLhyphen"/>gent,</hi> two <hi>Lions pawes</hi> iſſuing out of a Dexter and ſiniſter baſe points erected in form of a <hi>Cheveron Argent,</hi> Armed <hi>Gules,</hi> by the name of <hi>Frampton.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 4. is thus <hi>Blazoned:</hi> He beareth <hi>Argent</hi> a <hi>Cheveron</hi> between three <hi>Boars</hi> heads eraſed, <hi>Sable, Muzled, Or,</hi> by the name of <hi>Pennarth of Cornwall.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 5. is thus <hi>Blazoned:</hi> He beareth <hi>Topaz</hi> on a <hi>Chief, Diamond,</hi> three <hi>Lions</hi> heads eraſed of the firſt, by the name of <hi>Richardſon,</hi> once Lord chief Juſtice of the <hi>Kings Bench,</hi> and therefore <hi>Blazoned</hi> by precious Stones.</p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 6. is thus <hi>Blazoned:</hi> He beareth <hi>Azure</hi> a <hi>Pile</hi> waved, iſſuing out of the Dexter Corner of the Eſcutcheon Bend-wayes, <hi>Or,</hi> by the name of <hi>Aldam.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 7. is thus <hi>Blazoned:</hi> No beareth <hi>Ermin</hi> a <hi>Croſſe</hi> engralled, <hi>Gules,</hi> by the Name of <hi>Norwood</hi> of <hi>Lekhampton</hi> in the County of <hi>Gloueeſter.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 8. is thus <hi>Blazoned:</hi> The Field is <hi>Azure,</hi> a <hi>Bend</hi> engrailed <hi>Argent Cotiſſed, Or,</hi> by the name of <hi>Forteſcue</hi> of <hi>Devon.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 9. is thus <hi>Blazoned:</hi> He beareth <hi>Sable</hi> a <hi>Bend Argent,</hi> between two <hi>Cottiſes, Dancette, Or,</hi> by the name of <hi>Clopton.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 10. is thus <hi>Blazoned:</hi> He beareth <hi>Argent,</hi> two <hi>Bends, Gules.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 11. is thus <hi>Blazoned:</hi> He beareth <hi>Argent,</hi> three <hi>Bends wavy, Azure,</hi> by the name of <hi>Wilbra<g ref="char:EOLhyphen"/>ham</hi> of <hi>Cheſhire.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 12. is thus <hi>Blazoned:</hi> He beareth <hi>Gules</hi> on a <hi>Cheveron Argent</hi> with <hi>Barres, Gemelles Sable,</hi> by the name of <hi>Throckmorton</hi> of <hi>Glouceſterſhire.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 13. is thus <hi>Blazoned:</hi> He beareth <hi>Sable,</hi> a <hi>Pile Argent</hi> ſurmounted of <hi>Cheveron, Gules,</hi> by the name of <hi>Dynton.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 14. is thus <hi>Blazoned:</hi> He beareth <hi>Sable</hi> on a <hi>Saltier</hi> engrail'd <hi>Argent:</hi> An Eſcutcheon, <hi>Or</hi> Charged with a <hi>Croſſe, Gules,</hi> by the name of <hi>Morris.</hi>
+               </p>
+               <pb n="6" facs="tcp:151325:6"/>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 15. is thus <hi>Blazoned:</hi> He beareth <hi>Argent</hi> on a <hi>Pale Sable,</hi> three <hi>Croſſes Pattee, Or,</hi> within a <hi>Bordure, Engrailed</hi> of the <hi>Second,</hi> by the name of <hi>Crouch</hi> of <hi>Alſwick</hi> in the County of <hi>Hertford.</hi>
+               </p>
+               <q>Here you may obſerve, That where you are to <hi>Blazon</hi> an <hi>Eſcutcheon,</hi> wherein are born a <hi>Pale</hi> and a <hi>Bordure,</hi> that then you muſt mention the <hi>Pale</hi> be<g ref="char:EOLhyphen"/>fore the <hi>Bordure.</hi>
+               </q>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 16. is thus <hi>Blazoned:</hi> He beareth <hi>Argent</hi> a <hi>Feſſe</hi> and <hi>Canton Gules:</hi> This Coat of Armour pertained to the Honourable Family of <hi>Woodvile.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 17. is thus <hi>Blazoned:</hi> He beareth <hi>Gules,</hi> two <hi>Barrs</hi> and a <hi>Canton Argent:</hi> By the Name of <hi>Dean</hi> of <hi>Tatton</hi> in the County of <hi>Hereford.</hi>
+               </p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 18. is thus <hi>Blazoned:</hi> He beareth <hi>Sable</hi> a <hi>Bend</hi> and <hi>Chief, Or,</hi> a Coat or rare bearing.</p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi>. 19. is thus <hi>Blazoned:</hi> He beareth <hi>Or,</hi> a <hi>Feſſe</hi> between two <hi>Cheverons Sable:</hi> This <hi>Coat</hi> of <hi>Ar<g ref="char:EOLhyphen"/>mour</hi> was born by Sir <hi>John Liſle</hi> Knight.</p>
+               <p>The Eſcutcheon N<hi rend="sup">o</hi> 20. is thus <hi>Blazoned:</hi> He beareth <hi>Gales</hi> a <hi>Croſſe Argent</hi> in the <hi>Dexter Quarter,</hi> an Eſcutcheon <hi>Or,</hi> charged with three <hi>Cheveronels</hi> of the firſt, by the name of Sir <hi>Owen,</hi> which Form of bearing is very rare.</p>
+            </div>
+         </div>
+         <div type="pictorial_glossary">
+            <pb facs="tcp:151325:6"/>
+            <pb facs="tcp:151325:7"/>
+            <head>Heraldry Epitomized</head>
+            <p>
+               <hi>These are the differences of houſes that are added to Coate armour to distinguiſh the deſcent of Families whether they be of the firſt, ſecond, or third houſe &amp;c.</hi>
+            </p>
+            <figure>
+               <figDesc>heraldic differences of houses</figDesc>
+            </figure>
+            <pb facs="tcp:151325:7"/>
+            <p>
+               <hi>There is a Care to be taken concerning the honourable parts of the Escucheon and y<hi rend="sup">e</hi> leſse Honorable as to location which are obſerued as foloweth</hi>
+            </p>
+            <list>
+               <item>A <hi>The dexter chiefe</hi>
+               </item>
+               <item>B <hi>The preciſe middle chief</hi>
+               </item>
+               <item>C <hi>The ſinſter chiefe</hi>
+               </item>
+               <item>D <hi>The honour point.</hi>
+               </item>
+               <item>E <hi>The feſse point</hi>
+               </item>
+               <item>F <hi>The numbrill point.</hi>
+               </item>
+               <item>G <hi>The deaeter baſe.</hi>
+               </item>
+               <item>H <hi>The preciſe middle baſe</hi>
+               </item>
+               <item>I <hi>The ſineſter baſe.</hi>
+               </item>
+            </list>
+            <figure>
+               <figDesc>diagram showing position of parts on an escutcheon</figDesc>
+            </figure>
+            <p>
+               <hi>When any ordinaries are drawne with any of theſe lines the Blozoner is to ſay a Bend-Feſse Pale Croſse Bordure or what it is invecked ingrayled wavy or the like.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Invecked</hi>
+                  <figure>
+                     <figDesc>diagram of blazoned line</figDesc>
+                  </figure>
+               </item>
+               <item>
+                  <hi>Ingrayled</hi>
+                  <figure>
+                     <figDesc>diagram of blazoned line</figDesc>
+                  </figure>
+               </item>
+               <item>
+                  <hi>Wavy</hi>
+                  <figure>
+                     <figDesc>diagram of blazoned line</figDesc>
+                  </figure>
+               </item>
+               <item>
+                  <hi>Nebule</hi>
+                  <figure>
+                     <figDesc>diagram of blazoned line</figDesc>
+                  </figure>
+               </item>
+               <item>
+                  <hi>Imbataild or Crenelle</hi>
+                  <figure>
+                     <figDesc>diagram of blazoned line</figDesc>
+                  </figure>
+               </item>
+               <item>
+                  <hi>Indented</hi>
+                  <figure>
+                     <figDesc>diagram of blazoned line</figDesc>
+                  </figure>
+               </item>
+               <item>
+                  <hi>Dancette</hi>
+                  <figure>
+                     <figDesc>diagram of blazoned line</figDesc>
+                  </figure>
+               </item>
+            </list>
+            <pb facs="tcp:151325:8"/>
+            <figure>
+               <figDesc>diagram showing various animal positions</figDesc>
+            </figure>
+            <figure>
+               <head>The ſeverall ſorts of Helmets</head>
+               <figDesc>diagram showing various forms of helmet</figDesc>
+            </figure>
+            <pb facs="tcp:151325:8"/>
+            <figure>
+               <figDesc>family blazons or coats of arms</figDesc>
+               <p>
+                  <figure>
+                     <p>1 Vavaſour</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>2 Bowtheby</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 Frampton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>4 Pindar</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>5 Richardſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>6 Aldam</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>7 Norwood</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>8 Forteſcue</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>9 Clopton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>10 Haget</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>11 Wilbraham</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>12 Throkmorton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>13 Dyxton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>14 Morris</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>15 Crowch</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>16 Woodvile</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>17 Deane</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>18</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>19 Liſle</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>20 Owen</p>
+                  </figure>
+               </p>
+            </figure>
+            <pb facs="tcp:151325:9"/>
+            <figure>
+               <figDesc>key to heraldic blazons or coats of arms</figDesc>
+               <p>
+                  <figure>
+                     <p>or</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>argent</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſable</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>gules</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>azure</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Vert</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>purpure</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ermine</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ermines</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>vayre</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>potent</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>checkey</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>party per pale</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>per feſse</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>per bend</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>PB crenelle</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſiniſter</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>per croſse</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>per ſaltier</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a qurter</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>canton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>girone</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>gironey of 8</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>eſcocheon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>an orle</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:9"/>
+               <p>
+                  <figure>
+                     <p>orly</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>voyders</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>flaſques</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>flanches</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>corniter componed</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>purflewe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>gabonated</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>entoyre</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>enaluron</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a pile</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>2 pile</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Walorave tranſpoſed</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Zuſto p: flory</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Hawley cotined</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Boyle a plain croſs</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Zurth Wavy</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>cock voyded</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Reſtwold Ambriated</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Vpon 3 groes</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>moline</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>patonce</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>flurry</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>avelane</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>P fitched</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:10"/>
+               <p>
+                  <figure>
+                     <p>Patee fitched</p>
+                     <p>Cadwallader</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>formy flurry</p>
+                     <p>a coſt</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>bottony</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ingrayled</p>
+                     <p>Mohun</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>C voped perei<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                     <p>Grill</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>C voyded</p>
+                     <p>Woodnoth</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>triparted</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>double parted</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>reguled</p>
+                     <p>Laurence</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a ſaltire</p>
+                     <p>Aſton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>counter changed</p>
+                     <p>Hunt</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſurmounted</p>
+                     <p>Anadrew</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a pale</p>
+                     <p>Hurekly</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a pallet</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>endorſe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>paletts wavy</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>radiant rayon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a bend</p>
+                     <p>Scroop</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>wavy</p>
+                     <p>Wallop</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>crenello</p>
+                     <p>Wattyes</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:10"/>
+               <p>
+                  <figure>
+                     <p>a garter</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a benlet</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>cotized</p>
+                     <p>Bowyer</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>flory</p>
+                     <p>Highlord</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ingrayled</p>
+                     <p>Colepepper</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a ribon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a B ſiniſter</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a ſcarpe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a batune</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a coſt</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a feſse</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a barr</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a Cloſet</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>b arulet</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>nebule</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>bare of 12</p>
+                     <p>Thynne</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>In Cheife</p>
+                     <p>Hungerford</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>dancetty</p>
+                     <p>Delamare</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 barrs wavy</p>
+                     <p>Samford</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 lozanges <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </p>
+                     <p>Mountagu</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:11"/>
+               <p>
+                  <figure>
+                     <p>iſsuant</p>
+                     <p>Markham</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>naiſsant</p>
+                     <p>Emme</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>eraſed</p>
+                     <p>Govis</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 lyons hea<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </p>
+                     <p>Monke</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>on a bend</p>
+                     <p>Wroth</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a feſse</p>
+                     <p>Farmer</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>on a chiefe</p>
+                     <p>Wroth</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>in cheveron</p>
+                     <p>Frampton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 gambes</p>
+                     <p>Newdigate</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>in ſaltier</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>con ped erected</p>
+                     <p>Vſher</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 lions tailes</p>
+                     <p>Corke</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a tiger</p>
+                     <p>Mabb</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a beare</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>rampant</p>
+                     <p>Barnard</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>muzzled</p>
+                     <p>Barwick</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a wolfe Sali</p>
+                     <p>Donne</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>paſsant</p>
+                     <p>Low</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a grayhound</p>
+                     <p>Holford</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Curran<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                     <p>Palmer</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:11"/>
+               <p>
+                  <figure>
+                     <p>a Talbot</p>
+                     <p>Borgoine</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>heads</p>
+                     <p>Burton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Reynards</p>
+                     <p>Kadrad</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>catts in pale</p>
+                     <p>Keate</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſquerrells</p>
+                     <p>Lovell</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>connyes</p>
+                     <p>Strood</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a ſtagg lodged</p>
+                     <p>Harthill</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>at gaze</p>
+                     <p>Jones</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>tripping</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſpringing</p>
+                     <p>Gilstand</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Binfull corſe</p>
+                     <p>Robertſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>hinds CT</p>
+                     <p>Cotingham</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>St H cooped</p>
+                     <p>Rigmaiden</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>caborſed</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>truncked</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>atires</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>vnicorne</p>
+                     <p>Harling</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>tripping</p>
+                     <p>Muſterton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>currant</p>
+                     <p>Farington</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Cooped</p>
+                     <p>Shelter</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:12"/>
+               <p>
+                  <figure>
+                     <p>trouts fretted</p>
+                     <p>Trowtback</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſea crabs</p>
+                     <p>Bridger</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>an eſcallop</p>
+                     <p>Prelate</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſhells</p>
+                     <p>Malet</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>welks</p>
+                     <p>Shelly</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>pine T fructed</p>
+                     <p>Pine</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a limb of a tree reguled</p>
+                     <p>Penruddock</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſtocks radic<g ref="char:EOLunhyphen"/>ated</p>
+                     <p>Retowre</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>laurell lea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                     <p>Leueſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>holly L pend<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </p>
+                     <p>Inwine</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>peares</p>
+                     <p>Stukley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>pine apples</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>grapes</p>
+                     <p>Maroley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>flower de lis</p>
+                     <p>Digby</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>in 1 quar<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </p>
+                     <p>Aſhmole</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>lillies</p>
+                     <p>Wincheſt<hi rend="sup">r</hi> Colt</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>trefoiles</p>
+                     <p>Williamſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſtipped</p>
+                     <p>Lewis</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſinq-foiles</p>
+                     <p>Foley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Gilliflour<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:12"/>
+               <p>
+                  <figure>
+                     <p>Hew-bottles</p>
+                     <p>Chorley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>cater foiles</p>
+                     <p>Platt</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>culuering</p>
+                     <p>Leigh</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>battering Rams</p>
+                     <p>Bartey</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>long bows</p>
+                     <p>Bowes</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>pheons</p>
+                     <p>Rowden</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a S inpale</p>
+                     <p>Dimock</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>conjoyned</p>
+                     <p>Stapleton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>in poynt</p>
+                     <p>Paulet</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>lances in B</p>
+                     <p>Carlow</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſpeareheads</p>
+                     <p>Rayce</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>chapletts</p>
+                     <p>Richardſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſhackbolt</p>
+                     <p>Nuthall</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>lozanges</p>
+                     <p>Hyde</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>maſiles on a B</p>
+                     <p>Carlton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>watrbudgetts</p>
+                     <p>Hill</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>towteawees</p>
+                     <p>Courtney</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>counter chang<hi rend="sup">d</hi>
+                     </p>
+                     <p>Hooke</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>mullets</p>
+                     <p>Danvers</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>in Chiefe</p>
+                     <p>Freake</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:13"/>
+               <p>
+                  <figure>
+                     <p>a cheife</p>
+                     <p>Workeſley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a C indented</p>
+                     <p>Butler</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>bend &amp; chiefe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſaltire &amp; Ch</p>
+                     <p>Bruce</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a cheveron</p>
+                     <p>Stafford</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ingrayled vo</p>
+                     <p>Dudley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>couped</p>
+                     <p>Jones</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a cheveronel</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a couple cloſe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>braced</p>
+                     <p>Fittz hugh.</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>reverſed</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a file 3 points</p>
+                     <p>Barrington</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a Lion dorma<g ref="char:cmbAbbrStroke">̄</g>t</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>couchant</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſejant</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>paſsant</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>P. gardant</p>
+                     <p>Bromfeild</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſaliant</p>
+                     <p>Felbrige</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>rampant</p>
+                     <p>Stapleton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>regardan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                     <p>Gavay</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:13"/>
+               <p>
+                  <figure>
+                     <p>Coward</p>
+                     <p>Rowch</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Chained</p>
+                     <p>Meredith</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>2 L paſsant</p>
+                     <p>Somery</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>2 P gardant</p>
+                     <p>Ducy</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Counterpaſsa<g ref="char:cmbAbbrStroke">̄</g>t</p>
+                     <p>Glegg</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Combatant</p>
+                     <p>Wycomb</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>endorſed</p>
+                     <p>Achilles</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Rampant</p>
+                     <p>Ettritk</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>eſcallops</p>
+                     <p>Ruſsell</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>crowned or</p>
+                     <p>Tyſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>croſseletts</p>
+                     <p>Long</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>within a B</p>
+                     <p>Henley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>benlet</p>
+                     <p>Church</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>barsgemells</p>
+                     <p>Fairfax</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>counter cha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </p>
+                     <p>Vaughan</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>betweene</p>
+                     <p>Hoſkins</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>2 L rampant</p>
+                     <p>Dickinſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>6 lioneſses</p>
+                     <p>Morton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>demy lion</p>
+                     <p>Mallory</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 demy L</p>
+                     <p>Bennet</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:14"/>
+               <p>
+                  <figure>
+                     <p>a camell paſs</p>
+                     <p>Camell</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a bore</p>
+                     <p>Trewarthen</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>erected</p>
+                     <p>Booth</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>in 3 cupps</p>
+                     <p>Boles</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Cram CT</p>
+                     <p>Harman</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>rams heads</p>
+                     <p>Bendiſh</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>holy lambs</p>
+                     <p>Rowe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>an elephant</p>
+                     <p>Elfinſton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>craſes</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 horſes P</p>
+                     <p>Stamp</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Cooped</p>
+                     <p>Marſh</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>calves</p>
+                     <p>Veale</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>craſed</p>
+                     <p>Hocknell</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>aſses paſsant</p>
+                     <p>Aſkewe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a mule</p>
+                     <p>Moile</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a bull</p>
+                     <p>Bovile</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>craſed</p>
+                     <p>Carfelack</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>truncked</p>
+                     <p>Baynham</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>caborſed</p>
+                     <p>Gore</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a F betwee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                     <p>Corke</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:14"/>
+               <p>
+                  <figure>
+                     <p>goate</p>
+                     <p>Baker</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a tired or</p>
+                     <p>Gotley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>an eagle</p>
+                     <p>Reddingfeild</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>diſplayed</p>
+                     <p>Winne</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>eagletts</p>
+                     <p>Ernly</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>eggles cloſe</p>
+                     <p>Child</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>eniſed</p>
+                     <p>Awbrey</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>conjoyned</p>
+                     <p>Seymour</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>eagles claw</p>
+                     <p>Carthauſer</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a laquiſe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>goſse-hawk</p>
+                     <p>Veele</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſparrow hawk</p>
+                     <p>Atterton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>owles</p>
+                     <p>Preſcot</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>on a bend</p>
+                     <p>Savill</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a raven</p>
+                     <p>Corbet</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Corniſh-choug</p>
+                     <p>Oneſlow</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>burſtards riſ.</p>
+                     <p>Nevill</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſwallows</p>
+                     <p>Watton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>volant</p>
+                     <p>Swallow</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>maitletts</p>
+                     <p>Wray</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:15"/>
+               <p>
+                  <figure>
+                     <p>charged</p>
+                     <p>Sheppard</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>maſts coped</p>
+                     <p>Cromer</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſailes</p>
+                     <p>Cavill</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a rudder</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>anchor</p>
+                     <p>Goodred</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a Lighter</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a ſhipp</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>P ſcrips</p>
+                     <p>Palmer</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a T tripled</p>
+                     <p>Oldcaſtle</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>3 in Chiefe</p>
+                     <p>Seller</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Pigott</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Diſney</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Turner</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Waltden</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Cheſter</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Saunders</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Fairfax</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Wanley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Methven</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Thomſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <pb facs="tcp:151325:15"/>
+                     <p>Napier</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Napier</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Armour</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Sackeuill</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Bludworth</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Pley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Vernon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Sheldon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Dauiſon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>T<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rold</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Tyrell</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Petre</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Weldon</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Catlin</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>To<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Starling</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Fox</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Frederck</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Herne</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Webb</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:16"/>
+               <p>
+                  <figure>
+                     <p>cocks</p>
+                     <p>Cock</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>capones</p>
+                     <p>Capenhurſt</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>in their pride</p>
+                     <p>Pawne</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>turkey-cocks</p>
+                     <p>Yeo</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>bees volan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                     <p>Bye</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>harveſt fly</p>
+                     <p>Bolowre</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a greffon</p>
+                     <p>Evelin</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſergreant</p>
+                     <p>Read</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>in chiefe</p>
+                     <p>Dant</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>L counter</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a Wevern</p>
+                     <p>Drake</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>dragons H</p>
+                     <p>Cutler</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>mermaed</p>
+                     <p>Ellis</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>otters</p>
+                     <p>Lutterell</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>ſeals feet</p>
+                     <p>Yarmouth</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a leopard</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>lea heads</p>
+                     <p>Wentworth</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>apples in baſe</p>
+                     <p>Harlewin</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a roſe</p>
+                     <p>Beverley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a C between</p>
+                     <p>Biſh</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:16"/>
+               <p>
+                  <figure>
+                     <p>on a cuton</p>
+                     <p>Broadſtone</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>hurts</p>
+                     <p>Baſkerville</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>garbes</p>
+                     <p>Preſton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Cronells</p>
+                     <p>Wiſeman</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>bills</p>
+                     <p>Gibbs</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Helmetts</p>
+                     <p>Mirriet</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a L between</p>
+                     <p>Compton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>bells</p>
+                     <p>Porter</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>hawk bells</p>
+                     <p>Ent</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>arches</p>
+                     <p>Arches</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>fountaines</p>
+                     <p>Sturton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>tents</p>
+                     <p>Tenton</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>a frett</p>
+                     <p>Harington</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>frette</p>
+                     <p>Whitmore</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>bare bende</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Deſsant a f</p>
+                     <p>Morley</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>dolphin-naint</p>
+                     <p>Fitz James</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Hauriant</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Eeles noiant</p>
+                     <p>Ellis</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>pikes edorſa<g ref="char:cmbAbbrStroke">̄</g>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:17"/>
+               <p>
+                  <figure>
+                     <figDesc>royal English blazons or coats of arms</figDesc>
+                     <q>HONI SOIT QVI MAL Y PENSE</q>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Iohannes Huggford.</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Ricardus Carewe,</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Thomas Alderſg<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:17"/>
+               <p>
+                  <figure>
+                     <figDesc>royal English blazons or coats of arms</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Oſburne,</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Thomas Dudley,</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p>Thomas Reynell.</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:18"/>
+               <p>
+                  <figure>
+                     <head>The Seales of ARMES of the Biſhops of England; etc <hi>in this and the following Page.</hi>
+                     </head>
+                     <figDesc>blazons or coats of arms of English and Welsh bishops</figDesc>
+                     <p>
+                        <figure>
+                           <p>Sedes Cantuar</p>
+                           <figDesc>blazon or coat of arms of the seat of the archbishop of Canterbury</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Sedes Eboracens</p>
+                           <figDesc>blazon or coat of arms of the seat of the archbishop of York</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Sedes Londi<g ref="char:cmbAbbrStroke">̄</g>
+                           </p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of London</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se: Winton:</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Winchester</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se: Dunelm:</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Durham</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Elienſis</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Ely</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se: Sarum</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Salisbury</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Lincoln</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Lincoln</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Wigorn</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Worcester</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>S: Lichet Cov</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Lichfield</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Sed: Exon:</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Exeter</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Norvie</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Norwich</figDesc>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:19"/>
+                     <p>
+                        <figure>
+                           <p>S Bath et Wel</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Bath and Wells</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Herefor</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Hereford</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Roſſenſ</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Rochester</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>S Ciceſtrenſ</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Chicester</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Petreburg</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Peterborough</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Carliol</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Carlisle</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Oxon</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Oxford</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Gloceſt</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Gloucester</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Cestrens</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Chester</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Briſtol</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Bristol</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Meneven</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Meneven</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Landay</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Landay</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Bangor</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Bangor</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>S S<hi rend="sup">t</hi> Aſsaph</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of St Asaph</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <p>Se Sodorenſ</p>
+                           <figDesc>blazon or coat of arms of the seat of the bishop of Sodor and Man</figDesc>
+                        </figure>
+                     </p>
+                     <byline>W Sherwin ſculp</byline>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:20"/>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Reginaldus Corbet <gap reason="illegible" resp="#OXF" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Banco Regis</hi>
+                     </head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Edwardus Dyer Miles <gap reason="illegible" resp="#OXF" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> de Cont: Banco</hi>
+                     </head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Ricardus <gap reason="illegible" resp="#OXF" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi>
+                     </head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>
+                           <gap reason="illegible" resp="#OXF" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> miles Capitalis <gap reason="illegible" resp="#OXF" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi>
+                     </head>
+                  </figure>
+               </p>
+            </figure>
+            <figure>
+               <head>
+                  <hi>Iohannus <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> miles <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </head>
+            </figure>
+            <figure>
+               <head>Robertus Berkley miles, unus Iuſticiariorum ad pla<g ref="char:EOLhyphen"/>cita coram Rege Carolo.</head>
+            </figure>
+            <figure>
+               <head>Auguſtinus Nicholls miles, unus Iuſticiariorum de Ban<g ref="char:EOLhyphen"/>co, et Caroli Primo: Cancellarius,</head>
+            </figure>
+            <figure>
+               <head>
+                  <hi>Thomas Malet miles, unus Iuſticiariorum d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Banco Regis, A<hi rend="sup">o</hi> 1641.</hi>
+               </head>
+            </figure>
+            <figure>
+               <head>Gulielmus Peryam miles, Capitalis Baro Soaccary,</head>
+            </figure>
+            <figure>
+               <head>Thomas Meade unus Iuſticiariorum de com<g ref="char:EOLhyphen"/>muni. Banco,</head>
+            </figure>
+            <figure>
+               <head>Nicholaus Hide miles Capitalis Iuſticiarius a placita coram Rege Carolo, 1620</head>
+            </figure>
+            <figure>
+               <head>Edwardus Merven miles, unus Iuſticiariorum ad placita corain Rege.</head>
+            </figure>
+            <figure>
+               <head>
+                  <hi>Iacobus Whiteloke miles, unus Iuſticiariorum de Banco Regio</hi> 1624.</head>
+            </figure>
+            <figure>
+               <head>
+                  <hi>Franciſc<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rvey miles, unus Iuſ<gap reason="illegible" resp="#OXF" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap>rum domi<g ref="char:EOLhyphen"/>ni Regis <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>muni Banco.</hi>
+               </head>
+            </figure>
+            <figure>
+               <head>Thomas Carus unus Iuſti<g ref="char:EOLhyphen"/>ciariorum de Banco Regio.</head>
+            </figure>
+            <figure>
+               <head>Robertus Catlyn miles, Capitalis Iuſticiarius Anglia</head>
+               <pb facs="tcp:151325:21"/>
+               <p>
+                  <figure>
+                     <head>Walterus Dowriche</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Iohannes Aſhefeilde,</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Chriſtopherus George</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Richardus Moldeſworth</head>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:21"/>
+               <p>
+                  <figure>
+                     <head>Richardus Hackluyt</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Iohannes Agmondeſham.</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Thomas Harrys</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Iohannes Shurley,</head>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:22"/>
+               <p>
+                  <figure>
+                     <head>Edwardus Mountague miles. Capitalis Iuſti<g ref="char:EOLhyphen"/>ciarius de Banco</head>
+                     <p>
+                        <hi>Henricus Montagu miles, filius Edwards Montagu militis, fily praedicti Edwardi, Capitas lis Iuſticiarius, ad placita coram Rege Iacobo A<hi rend="sup">o</hi> 1616, et regni ſui 19<hi rend="sup">o</hi>.</hi>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Iohannes Walſhe unu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Iuſticiariorum de O<gap reason="illegible" resp="#OXF" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> in Banco.</hi>
+                     </head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Edwardus Sanders miles, Capitalis Baro Scaccarlj.</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Iohannes Southcote, un<gap reason="illegible" resp="#OXF" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Iuſticiariorum ad plac<gap reason="illegible" resp="#OXF" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> coram Rege.</hi>
+                     </head>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:22"/>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Alfridus Palmer, miles <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Baronettus, Attornatus <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eneralis domini Regis Caroli ſecundi, A<hi rend="sup">o</hi> 12<hi rend="sup">o</hi>.</hi>
+                     </head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Edwardus Turnor miles (Parliamenti 3<hi rend="sup">o</hi> die M<gap reason="illegible" resp="#OXF" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>a 13 Caroli Regis 2<hi rend="sup">o</hi> feliciter <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> ti, Domus Com. prolocuto unus Conſiliar D. Regis in L<gap reason="illegible" resp="#OXF" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> eruditus, et Illuſtr. <gap reason="illegible" resp="#OXF" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#OXF" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>cis Eboraci Attornatus gener<gap reason="illegible" resp="#OXF" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>is</hi>
+                     </head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Arphorus Turnor miles, <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Baronum Scaccarij <gap reason="illegible" resp="#OXF" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>gis Caroli ſecundi, anno <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uodecimo,</hi>
+                     </head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Robertus Hyde miles, unus Iuſticiaeriorum de Banco, anno regni Regis Caroli 12<hi rend="sup">o</hi>, et Capitalis Iuſticiarius ad placita coram Rege terlenda, 15<hi rend="sup">o</hi>
+                     </head>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:23"/>
+               <p>
+                  <figure>
+                     <head>Richardus Lewknor</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Robertus Snagge,</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Iohannes Savile,</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Reginaldus Braye,</head>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:23"/>
+               <p>
+                  <figure>
+                     <head>Georgius Gaſcoine,</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Thomas Bowyer,</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Thomas de lapyend</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Thomas Hannam,</head>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:24"/>
+               <p>
+                  <figure>
+                     <figDesc>blazon or coat of arms</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:151325:25"/>
+               <p>
+                  <figure>
+                     <p>
+                        <figure>
+                           <head>MERCERS</head>
+                           <p>1</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>MERCHANT TAHORS</head>
+                           <q>Concordia ParVaeRes Creſcunt</q>
+                           <p>7</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:25"/>
+                     <p>
+                        <figure>
+                           <head>GROCERS</head>
+                           <q>God Grant Grace</q>
+                           <p>2</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>HABERDASHERS</head>
+                           <q>Serve and Gbay</q>
+                           <p>8</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:26"/>
+                     <p>
+                        <figure>
+                           <head>DRAPERS.</head>
+                           <q>Unto God only be Honor &amp; glory</q>
+                           <p>3</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>SALTERS.</head>
+                           <q>Sal Sapit Dmnia</q>
+                           <p>9</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:26"/>
+                     <p>
+                        <figure>
+                           <head>FISHMONGERS.</head>
+                           <q>All Worſhip be to God onely</q>
+                           <p>4</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>IRONMONGERS.</head>
+                           <p>10</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:27"/>
+                     <p>
+                        <figure>
+                           <head>Diers</head>
+                           <q>DA GLORIAM DEO</q>
+                           <p>13</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>Leather Sellers</head>
+                           <p>15</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:27"/>
+                     <p>
+                        <figure>
+                           <head>BRVERS</head>
+                           <q>IN GOD IS ALL OVR TRVST</q>
+                           <p>14</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>PEWTERERS</head>
+                           <q>IN GOD IS ALL MY TRVST</q>
+                           <p>16</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:28"/>
+                     <p>
+                        <figure>
+                           <head>BARBER SVRGIONS</head>
+                           <q>DE PrICIPIENCIA DEI</q>
+                           <p>17</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>WHITE BAKERS</head>
+                           <q>PRAISE GOD FOR ALL</q>
+                           <p>19</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:28"/>
+                     <p>
+                        <figure>
+                           <head>ARMORERS</head>
+                           <q>MAKE ALL SURE</q>
+                           <p>18</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>WAX CHANDLERS</head>
+                           <q>TRUTH IS THE LIGHT</q>
+                           <p>20</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:29"/>
+                     <p>
+                        <figure>
+                           <head>TALLOW CHANDLERS</head>
+                           <q>ECCE AGUNS DEI QUI LOLLIS PECATIA MUND</q>
+                           <p>21</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>GIRDLERS</head>
+                           <q>GIUE TIANKS TO GOD</q>
+                           <p>23</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:29"/>
+                     <p>
+                        <figure>
+                           <head>CUTLERS</head>
+                           <q>POUR PORUENIR A BONNE FOY</q>
+                           <p>22</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>BUTCHERS</head>
+                           <q>OIA SUBIECISTI SUB PEDIBUS OUES ET BONES</q>
+                           <p>24</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:30"/>
+                     <p>
+                        <figure>
+                           <head>SADLERS</head>
+                           <q>OUR TRUST IS IN GOD</q>
+                           <p>25</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>CORD WAINERS</head>
+                           <p>27</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:30"/>
+                     <p>
+                        <figure>
+                           <head>CARPENTERS</head>
+                           <p>26</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>PAINTERS</head>
+                           <q>AMOR OUEAT OBEDIENCIA</q>
+                           <p>28</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:31"/>
+                     <p>
+                        <figure>
+                           <head>Curries</head>
+                           <p>29</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>PLIMMERS</head>
+                           <q>IN GOD IS OUR HOPE</q>
+                           <p>31</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:31"/>
+                     <p>
+                        <figure>
+                           <head>MASONS</head>
+                           <q>IN THE LORD IS AL OUR TRUST</q>
+                           <p>30</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>IN HOLDERS</head>
+                           <q>COM YE BLESSED WHEN I WAS HARBORLES YLLOGED ME</q>
+                           <p>32</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:32"/>
+                     <p>
+                        <figure>
+                           <head>THE FOVNDERS</head>
+                           <p>33</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>THE COOKES</head>
+                           <p>36</p>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:151325:32"/>
+                     <p>
+                        <figure>
+                           <head>THE EMBRODERERS</head>
+                           <p>34</p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>THE POVLTERERS</head>
+                           <p>35</p>
+                        </figure>
+                     </p>
+                     <figDesc>blazons or coats of arms of livery companies of the City of London</figDesc>
+                  </figure>
+               </p>
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
